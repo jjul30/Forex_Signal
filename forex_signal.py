@@ -8,8 +8,8 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # === CONFIGURATION ===
-TELEGRAM_TOKEN = "8153857317:AAFi1ZkEf-5wW8A6mZmbjNMtnnQjV8bAjMc"
-TELEGRAM_USER_ID = "1833631907"
+TELEGRAM_TOKEN = "YOURBOT TOKEN"
+TELEGRAM_USER_ID = "uSER ID"
 SYMBOL = "GC=F"  # Gold Futures symbol (used by Yahoo Finance)
 INTERVAL = "5m"
 ATR_MULTIPLIERS = [1, 1.5, 2]  # TP1, TP2, TP3 levels
